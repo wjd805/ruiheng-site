@@ -37,7 +37,7 @@ img{max-width:100%;display:block}
 .nav-inner{display:flex;align-items:center;justify-content:space-between}
 .nav-logo{display:flex;align-items:center;gap:12px;font-weight:800;font-size:21px;color:#fff}
 .nav.scrolled .nav-logo{color:var(--ink)}
-.nav-logo img{height:44px}
+.nav-logo img{height:60px}
 .nav-menu{display:flex;gap:28px}
 .nav-menu a{color:rgba(255,255,255,.9);font-size:15px;font-weight:500}
 .nav.scrolled .nav-menu a{color:var(--ink-2)}
