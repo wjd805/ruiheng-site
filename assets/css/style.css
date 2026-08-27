@@ -35,7 +35,7 @@ img{max-width:100%;display:block}
 .nav{position:fixed;top:0;left:0;width:100%;z-index:100;padding:18px 0;transition:.3s}
 .nav.scrolled{background:rgba(255,255,255,.96);box-shadow:0 2px 18px rgba(0,0,0,.06);padding:10px 0}
 .nav-inner{display:flex;align-items:center;justify-content:space-between}
-.nav-logo{display:flex;align-items:center;gap:12px;font-weight:800;font-size:21px;color:#fff}
+.nav-logo{display:flex;align-items:center;gap:14px;font-weight:800;font-size:25px;color:#fff}
 .nav.scrolled .nav-logo{color:var(--ink)}
 .nav-logo img{height:60px}
 .nav-menu{display:flex;gap:28px}
